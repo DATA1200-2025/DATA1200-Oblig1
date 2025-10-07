@@ -4,4 +4,4 @@ Team:
 - Akiran Ravinthiran
 - Delaxsan Alakaratnam
 - Mohammed Ayaan Ateeq
-- Prajinth Sanukanth.
+- Prajinth Sanukanth
